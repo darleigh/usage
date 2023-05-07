@@ -13,8 +13,8 @@
   # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
   # You can create any custom variable you would like, and they will be accessible
   # in the templates via {{ site.myvariable }}.
-  title: Project Userguide
-  description: 
+  title: Design
+  description: Human Interface Guidelines | Darleigh document developer
   baseurl: "/" # the subpath of your site, e.g. /blog
   url: "https://darleigh.com" # the base hostname & protocol for your site, e.g. http://example.com
   repository: just-the-docs/just-the-docs # for github-metadata
@@ -100,7 +100,7 @@
   # Aux links for the upper right navigation
   aux_links:
     "Just the Docs on GitHub":
-      - "//github.com/just-the-docs/just-the-docs"
+      - "//darleigh.com"
 
   # Makes Aux links open in a new tab. Default is false
   aux_links_new_tab: false
@@ -112,7 +112,7 @@
   # External navigation links
   nav_external_links:
     - title: Just the Docs on GitHub
-      url: https://github.com/just-the-docs/just-the-docs
+      url: https://darleigh.com
 
   # Footer content
   # appears at the bottom of every page's main content
