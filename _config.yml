@@ -99,7 +99,7 @@
 
   # Aux links for the upper right navigation
   aux_links:
-    "Just the Docs on GitHub":
+    "darleigh.com":
       - "//darleigh.com"
 
   # Makes Aux links open in a new tab. Default is false
@@ -111,7 +111,7 @@
 
   # External navigation links
   nav_external_links:
-    - title: Just the Docs on GitHub
+    - title: darleigh.com
       url: https://darleigh.com
 
   # Footer content

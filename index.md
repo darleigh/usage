@@ -2,20 +2,18 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "The HIG contains guidance and best practices that can help you design a great experience for any platform."
 permalink: /
 ---
-# Fcus on writing good documentation
 
 # Human Interface Guideline
-
 {: .fs-9 }
 
-The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Page
+The HIG contains guidance and best practices that can help you design a great experience for any platform.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Follow me][Darleigh Portfolio]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -91,7 +89,7 @@ Just the Docs is committed to fostering a welcoming community.
 [Jekyll configuration]: https://jekyllrb.com/docs/configuration/
 [source file for this page]: https://github.com/just-the-docs/just-the-docs/blob/main/index.md
 [Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[Darleigh Portfolio]: https://darleigh.com
 [Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
 [Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
 [GitHub Pages]: https://pages.github.com/
