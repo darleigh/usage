@@ -43,7 +43,7 @@
     - package-lock.json
     - Rakefile
     - README.md
-    # - CODE_OF_CONDUCT.md
+    - CODE_OF_CONDUCT.md
     - docker-compose.yml
     - Dockerfile
   # theme test code
