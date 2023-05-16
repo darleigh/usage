@@ -26,3 +26,4 @@ By default, all generated HTML pages are indexed using the following data points
 ![figure](/assets/images)
 
 
+
