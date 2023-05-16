@@ -1,17 +1,18 @@
 ---
 layout: default
 title: Search
-nav_order: 1
+nav_order: 2
 ---
-
 # Search
+
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
@@ -24,6 +25,3 @@ By default, all generated HTML pages are indexed using the following data points
 - Page URL
 
 ![figure](/assets/images)
-
-
-
