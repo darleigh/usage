@@ -24,4 +24,4 @@ By default, all generated HTML pages are indexed using the following data points
 - Page content
 - Page URL
 
-![figure](/assets/images)
+![figure](/assets/images/features.gif)
