@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search
+
 nav_order: 2
 ---
 # Search
@@ -23,5 +24,3 @@ By default, all generated HTML pages are indexed using the following data points
 - Page title
 - Page content
 - Page URL
-
-![figure](/assets/images/features.gif)
